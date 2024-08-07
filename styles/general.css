@@ -1,0 +1,29 @@
+p{
+    
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    font-family: Roboto , Arial;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: rgb(118, 197, 116);
+}
+
+.titulo{
+    font-size:40px ;
+    font-family: Roboto , Arial;
+    font-weight: 700;
+
+}
+
+.contenedor-titulo {
+
+    margin-bottom: 15px;
+    text-align: center;
+    color: white;
+    
+}
